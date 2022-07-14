@@ -2,11 +2,11 @@ name: TotoruOps
 description: Blogging about stuffs
 meta_description: "TotoruOps - Tech, Leadership, Education and Fathership"
 
-markdown: kramdown
-highlighter: rouge
-logo: false
-paginate: 15
-baseurl: "/blog/"
+# markdown: kramdown
+# highlighter: rouge
+# logo: false
+# paginate: 15
+baseurl: ""
 domain_name: "https://totoruops.com"
 # google_analytics: "UA-XXXXXXXX-X"
 
@@ -18,4 +18,4 @@ domain_name: "https://totoruops.com"
 # disqus-shortname: ""
 
 theme: jekyll-theme-slate
-plugins: [jekyll-paginate]
+# plugins: [jekyll-paginate]
