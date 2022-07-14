@@ -7,8 +7,9 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
-
+  <!-- {{ content }} -->
+  <h1>{{ site.posts.last.title }}</h1>
+  {{ site.posts.last.content }}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
