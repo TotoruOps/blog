@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome, World!"
+title:  "Hello, World!"
 date:   2022-07-14 18:10:42 +0000
 categories: fathership,
 ---
