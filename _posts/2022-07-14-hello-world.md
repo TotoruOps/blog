@@ -31,4 +31,6 @@ Essa nova fase me fez pensar ainda mais na minha carreira e, como pai do Satoru,
 
 Já falei para vocês que trabalhar com pessoas me energiza, por isso começarei com uma série de 3 posts falando sobre o papel do pai na gestação, farei um paralelo sobre a responsabilidade compartilhada e o sentimento de dono (ownershipness) e por fim falarei um pouco sobre paternidade e liderança.
 
+Saiba mais sobre minha [jornada aqui](/about.md)!
+
 Nos vemos nos próximos posts!! 😉
