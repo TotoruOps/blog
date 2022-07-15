@@ -21,6 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://totoruops.github.io/"
 url: "https://totoruops.com"
 
+google_analytics: "G-BHSZ2EZYYH"
+
 # Build settings
 markdown: kramdown
 theme: minima
