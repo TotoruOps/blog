@@ -27,8 +27,14 @@ Same company, new position, first leadership experience! A lot of experience and
 
 ### Blockchain Developer, HubChain - March 2018 - August 2018
 
-New technology! Blockchain had come to change the world with only two pizzas.
+New technology! Blockchain had come to change the world with only [two pizzas](https://exame.com/future-of-money/criptoativos/o-que-e-bitcoin-pizza-day-conheca-a-data-comemorada-neste-domingo/). I learned how blockchain and crypto works and helped build not only several blockchain but also applications that connects to the blockchain ecossystem.
 
 ### Infrastructure and Cloud Analyst, Geofusion - June 2015 - February 2018
 
+First startup, first cloud operations experience. I learned the importance of working on what matters, automation and configuration management. There I also learned what is DevOps.
+
 ### Support Analyst, SQLTech - January 2013 - May 2015
+
+I learned that even big companies have "short" budgets for IT projects. I learned how govern projects works and how they use technology to resolve their problems.
+
+## College
