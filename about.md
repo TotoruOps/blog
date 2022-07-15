@@ -1,10 +1,10 @@
 ---
 layout: page
-title: WhoAmI
+title: Who Am I
 permalink: /about/
 ---
 
-Hello, there!
+:wave:Hello, there!
 
 *Do or do not, there is no try!* My name is [Wagner Hitomi](https://linkedin.com/in/wyhitomi) and I love make things happen! I'm a fighter and an entrepreneur, I love the startups, having worked on several of them, each one in different stages. And I like people even more, although I'm the introvert type, and a *NERD*. At first contact you might think "*sigh... he is an a$@*"... but you also might consider me a funny person - even though you don't understand a word I'm saying.
 
@@ -13,7 +13,7 @@ You can find me on twitter as [@wyhitomi](https://twitter.com/wyhitomi). DMs are
 
 ## What I'm doing
 
-I'm a SRE at [@VoltzMotorsTech](https://twitter.com/VoltzMotorsTech). What this means? I don't have a clue :monocle_face:, but I'll be writing about it for sure! :sunglasses:!
+I'm a SRE at [@VoltzMotorsTech](https://twitter.com/VoltzMotorsTech). What this means? I don't have a clue :sweat_smile:, but I'll be writing about it for sure! :sunglasses:!
 
 ## :peanuts: A Brief Story of Time
 
