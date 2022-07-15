@@ -2,7 +2,9 @@
 layout: post
 title:  "Hello, World!"
 date:   2022-07-14 18:00:00 +0300
-categories: FATHERSHIP
+categories: [fathership,parenting]
+tags: [fathership,parenting]
+lang: pt-br
 ---
 
 Olá! Bem vindos e bem vindas! Esse é o primeiro post do TotoruOps, um lugar onde escreverei sobre tecnologia, liderança, educação e paternidade!
