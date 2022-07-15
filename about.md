@@ -23,7 +23,7 @@ I joined the former DevOps squad to help evolve ClickBus's Infrastructure. There
 
 ### Development Coordinator, Hubchain - August 2018 - May 2020
 
-Same company, new position, first leadership experience! A lot of experience and learnings. As a coordinator I was responsible for granting things were delivered, deal with clients and act as a shield for the engineers. There I`ve improved not just my Product Vision, but also my interview and management skills.
+First leadership experience! A lot of experience and learnings. As a coordinator I was responsible for granting things were delivered, deal with clients, talk and understand requirements and act as a shield for the engineers. There I`ve improved not just my Product Vision, but also my interview and management skills.
 
 ### Blockchain Developer, HubChain - March 2018 - August 2018
 
